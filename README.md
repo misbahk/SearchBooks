@@ -1,3 +1,13 @@
+
+steps to run the app:
+
+1. clone the repository
+2. Go inside the folder, just where the 'src' folder is present
+and open terminal in that folder path, and run the command 'npm i'
+so that all dependencies to run the will get installed.
+3. enter - cd 'the folder name' , ex: cd myapp , in the terminal
+4. run the app using the command - npm start.
+
 This is a project where you can search book by its TITLE.
 After entering the title of the book to be search, click on the search icon and wait for few seconds for the data to be loaded.
 This is due to backend dosent have pagination hence wont be able to control the load time from front-end.
