@@ -1,3 +1,10 @@
+This is a project where you can search book by its TITLE.
+After entering the title of the book to be search, click on the search icon and wait for few seconds for the data to be loaded.
+This is due to backend dosent have pagination hence wont be able to control the load time from front-end.
+Click on the authors it will open a pop-up and display author details.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
